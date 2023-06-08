@@ -77,6 +77,10 @@ VALUES
 ,('facttenantsales','table','curated_zone','discovery',null,null,null,null,null,null,null,1,'system','system')
 ,('facttenantcontract','table','curated_zone','discovery',null,null,null,null,null,null,null,1,'system','system')
 ,('dimtenant','table','curated_zone','discovery',null,null,null,null,null,null,null,1,'system','system')
+,('vwyearlyoverview','view','quality_zone','enrichment',null,null,null,null,null,null,null,1,'system','system')
+,('yearlyoverview','table','curated_zone','discovery',null,null,null,null,null,null,null,1,'system','system')
+,('vwcategoryperformance','view','quality_zone','enrichment',null,null,null,null,null,null,null,1,'system','system')
+,('categoryperformance','table','curated_zone','discovery',null,null,null,null,null,null,null,1,'system','system')
 
 IF OBJECT_ID('metadata.dbo.Task') IS NOT NULL
 BEGIN 
@@ -116,7 +120,8 @@ VALUES
 ,(13,17,'enrichmenttodiscovery',1,'system','system')
 ,(15,16,'enrichmenttodiscovery',1,'system','system')
 ,(11,18,'enrichmenttodiscovery',1,'system','system')
-
+,(19,20,'enrichmenttodiscovery',1,'system','system')
+,(21,22,'enrichmenttodiscovery',1,'system','system')
 
 
 
@@ -241,6 +246,21 @@ VALUES
 ,(12,'lease_status','varchar',-1,null,null,'lease_status','varchar',50,null,null,0,1)
 ,(12,'category','varchar',-1,null,null,'category','varchar',100,null,null,0,1)
 ,(12,'source_system','varchar',-1,null,null,'source_system','varchar',20,null,null,0,1)
+
+,(13,'Tenant_ID','varchar',100,null,null,'Tenant_ID','varchar',100,null,null,1,1)
+,(13,'Lease_Type','varchar',100,null,null,'Lease_Type','varchar',100,null,null,0,1)
+,(13,'Catagory','varchar',100,null,null,'Catagory','varchar',100,null,null,0,1)
+,(13,'Area_Per_Sqft','numeric',null,18,3,'Area_Per_Sqft','numeric',null,18,3,0,1)
+,(13,'Annual_Rent','numeric',null,18,3,'Annual_Rent','numeric',null,18,3,0,1)
+,(13,'Lease_From','date',null,null,null,'Lease_From','date',null,null,null,0,1)
+,(13,'Lease_To','date',null,null,null,'Lease_To','date',null,null,null,0,1)
+,(13,'Annual_Sales','numeric',null,18,3,'Annual_Sales','numeric',null,18,3,0,1)
+
+,(14,'Catagory','varchar',100,null,null,'Catagory','varchar',100,null,null,1,1)
+,(14,'Rent_per_Category','numeric',null,18,3,'Rent_per_Category','numeric',null,18,3,0,1)
+,(14,'Area_SqFt_per_Category','numeric',null,18,3,'Area_SqFt_per_Category','numeric',null,18,3,0,1)
+,(14,'Sales_Per_Category','numeric',null,18,3,'Sales_Per_Category','numeric',null,18,3,0,1)
+
 
 
 --- Create metadata.dbo.ELTLog table 
