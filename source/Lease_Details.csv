@@ -1,0 +1,680 @@
+L_ID,lease_type,lease_status,Category
+ABC0005533,Shop\Retail,Current,Food and Beverages
+ABC0011564,F&B,Past,Food and Beverages
+ABC0011606,F&B,Past,Food and Beverages
+ABC0011662,F&B,Current,Food and Beverages
+ABC0011722,Shop\Retail,Current,Other
+ABC0011755,Shop\Retail,Current,Other
+ABC0011756,Shop\Retail,Current,Food and Beverages
+ABC0013144,Anchor,Current,Optometrist and Sun Glasses
+ABC0013514,Shop\Retail,Current,Other
+ABC0013363,Shop\Retail,Current,Services
+ABC0013704,Shop\Retail,Current,Services
+ABC0013656,Shop\Retail,Past,Other
+ABC0013474,Shop\Retail,Current,Food and Beverages
+ABC0013864,Shop\Retail,Current,Services
+ABC0013633,Shop\Retail,Current,Watches and Jewelery
+ABC0013730,Shop\Retail,Current,Services
+ABC0014030,Shop\Retail,Current,Fashion and Accessories
+ABC0014000,Kiosk,Past,Perfumes and Cosmetics
+ABC0013901,External Seating,Current,Food and Beverages
+ABC0013992,Kiosk,Past,Food and Beverages
+ABC0014108,Shop\Retail,Current,Other
+ABC0014189,Marketing,Current,Services
+ABC0014191,Marketing,Past,Services
+ABC0014217,Marketing,Past,Services
+ABC0013895,Shop\Retail,Current,Fashion and Accessories
+ABC0013780,Shop\Retail,Current,
+ABC0013594,Office,Current,Other
+ABC0014304,Marketing,Past,Services
+ABC0013829,Kiosk,Current,Fashion and Accessories
+ABC0013887,Shop\Retail,Current,Food and Beverages
+ABC0013833,Shop\Retail,Current,Luxury Fashion and Accessories
+ABC0014212,Storage,Past,Food and Beverages
+ABC0013935,Shop\Retail,Current,Other
+ABC0014384,Marketing,Past,Services
+ABC0013832,Shop\Retail,Current,Food and Beverages
+ABC0013778,Shop\Retail,Current,Fashion and Accessories
+ABC0014213,Storage,Current,Food and Beverages
+ABC0014448,Marketing,Past,Services
+ABC0014253,Shop\Retail,Current,Food and Beverages
+ABC0014201,Shop\Retail,Current,Services
+ABC0014380,Storage,Past,Food and Beverages
+ABC0013443,Food Hall,Current,
+ABC0013862,Shop\Retail,Current,Other
+ABC0014164,Shop\Retail,Past,Food and Beverages
+ABC0014582,Shop\Retail,Current,Food and Beverages
+ABC0014584,Shop\Retail,Current,Other
+ABC0014585,Shop\Retail,Current,Other
+ABC0014573,Shop\Retail,Current,Other
+ABC0014574,Shop\Retail,Past,Other
+ABC0014586,Shop\Retail,Current,Other
+ABC0014576,Shop\Retail,Current,Pharmacy and Health
+ABC0014587,Shop\Retail,Current,Other
+ABC0014592,Shop\Retail,Current,Other
+ABC0014593,Shop\Retail,Current,Perfumes and Cosmetics
+ABC0014594,Shop\Retail,Current,Services
+ABC0014595,Shop\Retail,Past,Other
+ABC0014596,F&B,Current,Food and Beverages
+ABC0014597,Shop\Retail,Current,Food and Beverages
+ABC0014598,Shop\Retail,Current,Pharmacy and Health
+ABC0014599,Shop\Retail,Current,Hypermarket
+ABC0014600,Shop\Retail,Current,
+ABC0014601,Shop\Retail,Current,Other
+ABC0014602,Shop\Retail,Current,
+ABC0014603,Shop\Retail,Current,Services
+ABC0014604,Shop\Retail,Current,Books and Stationery
+ABC0014605,Shop\Retail,Current,Other
+ABC0014606,Shop\Retail,Current,Services
+ABC0014607,Shop\Retail,Current,Services
+ABC0014608,Shop\Retail,Current,Perfumes and Cosmetics
+ABC0014609,Shop\Retail,Past,Services
+ABC0014610,Shop\Retail,Current,Other
+ABC0014612,Shop\Retail,Past,Services
+ABC0014613,Shop\Retail,Current,Services
+ABC0014614,Shop\Retail,Current,Services
+ABC0014615,External Seating,Current,Food and Beverages
+ABC0014616,F&B,Past,Food and Beverages
+ABC0014617,Anchor,Current,Leisure and Entertainment
+ABC0014619,Shop\Retail,Current,Pharmacy and Health
+ABC0014620,F&B,Current,Food and Beverages
+ABC0014621,F&B,Current,Food and Beverages
+ABC0014622,F&B,Current,Food and Beverages
+ABC0014623,Shop\Retail,Current,Perfumes and Cosmetics
+ABC0014625,Shop\Retail,Current,Pharmacy and Health
+ABC0014628,F&B,Current,Food and Beverages
+ABC0014629,F&B,Current,Food and Beverages
+ABC0014630,F&B,Current,Food and Beverages
+ABC0014631,F&B,Current,Food and Beverages
+ABC0014633,Anchor,Current,Services
+ABC0014591,Marketing,Past,Services
+ABC0013999,Anchor,Current,Other
+ABC0014011,External Seating,Current,Other
+ABC0014718,Marketing,Past,Services
+ABC0013671,Shop\Retail,Past,Other
+ABC0014488,Shop\Retail,Current,Other
+ABC0014127,Shop\Retail,Current,Other
+ABC0013952,Shop\Retail,Current,Food and Beverages
+ABC0014761,Storage,Past,Events
+ABC0014252,Shop\Retail,Current,Services
+ABC0014762,Shop\Retail,Current,Other
+ABC0014763,Shop\Retail,Current,Other
+ABC0014764,Shop\Retail,Current,Other
+ABC0014258,Office,Current,Other
+ABC0014306,Shop\Retail,Current,Fashion and Accessories
+ABC0014097,Shop\Retail,Current,Other
+ABC0013522,External Seating,Current,Other
+ABC0014466,Shop\Retail,Current,Food and Beverages
+ABC0014181,F&B,Current,Food and Beverages
+ABC0014033,Shop\Retail,Current,Other
+ABC0013900,F&B,Current,Food and Beverages
+ABC0014188,Shop\Retail,Current,Food and Beverages
+ABC0014203,Shop\Retail,Current,Services
+ABC0014768,Shop\Retail,Current,Other
+ABC0014759,Shop\Retail,Current,Other
+ABC0014825,Shop\Retail,Current,Services
+ABC0014855,Shop\Retail,Current,Leisure and Entertainment
+ABC0014452,Shop\Retail,Current,Other
+ABC0014120,Shop\Retail,Current,Food and Beverages
+ABC0014325,Office,Current,Other
+ABC0014422,Shop\Retail,Current,Other
+ABC0014013,Shop\Retail,Current,Other
+ABC0014020,Office,Current,Other
+ABC0013774,Shop\Retail,Current,Food and Beverages
+ABC0014808,Kiosk,Past,Electronics
+ABC0013906,Shop\Retail,Current,Food and Beverages
+ABC0014309,Shop\Retail,Current,Other
+ABC0015001,Office,Current,Other
+ABC0014476,Shop\Retail,Current,Other
+ABC0014411,Kiosk,Past,Luxury Watches and Jewelery
+ABC0015616,Kiosk,Current,Services
+ABC0015617,Kiosk,Current,Services
+ABC0015618,Kiosk,Current,Services
+ABC0015619,Kiosk,Current,Services
+ABC0015620,Kiosk,Current,Services
+ABC0013803,Shop\Retail,Current,Leisure and Entertainment
+ABC0015631,Shop\Retail,Current,Food and Beverages
+ABC0014208,Kiosk,Current,Gifts and Souvenirs
+ABC0015094,Shop\Retail,Current,Food and Beverages
+ABC0014754,Shop\Retail,Current,Food and Beverages
+ABC0014952,Shop\Retail,Current,Food and Beverages
+ABC0014389,Kiosk,Past,Perfumes and Cosmetics
+ABC0014463,External Seating,Current,Food and Beverages
+ABC0014117,External Seating,Current,Food and Beverages
+ABC0014193,External Seating,Current,Food and Beverages
+ABC0014317,External Seating,Current,Food and Beverages
+ABC0013290,Shop\Retail,Current,Services
+ABC0015138,Shop\Retail,Current,Services
+ABC0014361,Shop\Retail,Current,Food and Beverages
+ABC0015562,Shop\Retail,Current,Services
+ABC0014722,Shop\Retail,Current,Department Stores
+ABC0014219,Office,Current,Other
+ABC0014894,Shop\Retail,Current,Services
+ABC0015660,External Seating,Current,Services
+ABC0015653,External Seating,Current,Food and Beverages
+ABC0015148,Shop\Retail,Current,Food and Beverages
+ABC0014116,Shop\Retail,Current,Food and Beverages
+ABC0014951,Shop\Retail,Current,Other
+ABC0015142,Shop\Retail,Current,Leisure and Entertainment
+ABC0013907,F&B,Current,Food and Beverages
+ABC0014489,Shop\Retail,Current,Department Stores
+ABC0013455,Shop\Retail,Current,Food and Beverages
+ABC0014471,External Seating,Current,Food and Beverages
+ABC0014114,Shop\Retail,Current,Food and Beverages
+ABC0013554,Shop\Retail,Current,Food and Beverages
+ABC0014467,Shop\Retail,Current,Food and Beverages
+ABC0015005,Shop\Retail,Current,Watches and Jewelery
+ABC0015154,Shop\Retail,Current,Other
+ABC0014224,Shop\Retail,Current,Services
+ABC0015038,Shop\Retail,Current,Services
+ABC0014980,External Seating,Current,Food and Beverages
+ABC0015568,External Seating,Current,Other
+ABC0015017,Shop\Retail,Current,Other
+ABC0014755,Shop\Retail,Current,Gifts and Souvenirs
+ABC0014935,External Seating,Past,Food and Beverages
+ABC0014347,Shop\Retail,Current,Food and Beverages
+ABC0013776,External Seating,Current,Food and Beverages
+ABC0014358,Shop\Retail,Current,Department Stores
+ABC0015904,Shop\Retail,Current,Services
+ABC0015907,Revenue Generating\Services,Current,Services
+ABC0014344,Shop\Retail,Past,Other
+ABC0013473,Shop\Retail,Current,Food and Beverages
+ABC0015149,Shop\Retail,Current,Food and Beverages
+ABC0013817,Shop\Retail,Past,Food and Beverages
+ABC0014465,Shop\Retail,Past,Fashion and Accessories
+ABC0013528,Shop\Retail,Current,Luxury Watches and Jewelery
+ABC0014333,Shop\Retail,Current,Department Stores
+ABC0013825,External Seating,Past,Food and Beverages
+ABC0013896,External Seating,Past,Food and Beverages
+ABC0013736,Shop\Retail,Past,Food and Beverages
+ABC0013961,Shop\Retail,Current,Food and Beverages
+ABC0015820,Shop\Retail,Current,Other
+ABC0015008,Shop\Retail,Current,Food and Beverages
+ABC0014852,Shop\Retail,Current,Food and Beverages
+ABC0015632,External Seating,Current,Food and Beverages
+ABC0015838,Kiosk,Current,Electronics
+ABC0013948,Shop\Retail,Current,Food and Beverages
+ABC0014836,Shop\Retail,Current,Leisure and Entertainment
+ABC0014520,Shop\Retail,Current,Tobacco and Cigarettes
+ABC0015153,Shop\Retail,Current,Other
+ABC0015108,Shop\Retail,Current,Other
+ABC0013841,Shop\Retail,Current,Services
+ABC0014449,Shop\Retail,Current,Food and Beverages
+ABC0015145,Shop\Retail,Current,Other
+ABC0015785,Shop\Retail,Current,Other
+ABC0015873,Shop\Retail,Current,Other
+ABC0015122,Anchor,Current,Fashion and Accessories
+ABC0015777,Shop\Retail,Current,
+ABC0015789,External Seating,Current,Food and Beverages
+ABC0015729,Shop\Retail,Current,Food and Beverages
+ABC0013552,Shop\Retail,Current,Department Stores
+ABC0014862,External Seating,Current,Food and Beverages
+ABC0014070,Shop\Retail,Current,Food and Beverages
+ABC0014566,Shop\Retail,Current,Leisure and Entertainment
+ABC0015036,Shop\Retail,Current,Other
+ABC0013965,External Seating,Current,Food and Beverages
+ABC0013966,External Seating,Current,Food and Beverages
+ABC0014439,Shop\Retail,Past,Department Stores
+ABC0015698,Shop\Retail,Current,Other
+ABC0014454,External Seating,Current,
+ABC0015767,Shop\Retail,Current,Services
+ABC0015833,Shop\Retail,Past,Food and Beverages
+ABC0014922,Shop\Retail,Current,Other
+ABC0014498,Kiosk,Past,Other
+ABC0014799,Office,Past,Other
+ABC0015787,Shop\Retail,Current,Other
+ABC0015797,Shop\Retail,Current,Services
+ABC0015976,External Seating,Current,Food and Beverages
+ABC0016098,Marketing,Current,Services
+ABC0014908,Shop\Retail,Current,Other
+ABC0015954,Shop\Retail,Current,Food and Beverages
+ABC0014106,External Seating,Current,Food and Beverages
+ABC0016063,Kiosk,Current,Services
+ABC0014109,External Seating,Current,Food and Beverages
+ABC0015748,Shop\Retail,Current,Other
+ABC0014420,Shop\Retail,Current,Home Furnishings
+ABC0013969,Shop\Retail,Past,Services
+ABC0015866,Kiosk,Current,Services
+ABC0016151,Shop\Retail,Current,Food and Beverages
+ABC0016154,External Seating,Current,Food and Beverages
+ABC0016155,External Seating,Current,Food and Beverages
+ABC0015953,Shop\Retail,Current,Other
+ABC0015970,Shop\Retail,Current,Food and Beverages
+ABC0015981,Shop\Retail,Current,Leisure and Entertainment
+ABC0016186,Marketing,Current,Fashion and Accessories
+ABC0015971,External Seating,Current,Food and Beverages
+ABC0015962,Shop\Retail,Current,Food and Beverages
+ABC0015949,Shop\Retail,Current,Other
+ABC0015893,Anchor,Current,Food and Beverages
+ABC0015950,Shop\Retail,Current,Other
+ABC0016216,Revenue Generating\Services,Past,Services
+ABC0016217,Revenue Generating\Services,Current,Services
+ABC0014756,Shop\Retail,Past,Food and Beverages
+ABC0014001,Shop\Retail,Current,Food and Beverages
+ABC0015917,Anchor,Current,Services
+ABC0014632,F&B,Current,
+ABC0013858,Shop\Retail,Current,Food and Beverages
+ABC0016064,Shop\Retail,Current,Optometrist and Sun Glasses
+ABC0016080,Shop\Retail,Current,Books and Stationery
+ABC0015858,Shop\Retail,Current,Other
+ABC0014943,Shop\Retail,Current,Services
+ABC0015688,Shop\Retail,Current,Other
+ABC0015823,Shop\Retail,Current,Other
+ABC0015679,Shop\Retail,Current,Services
+ABC0014346,External Seating,Past,Food and Beverages
+ABC0016346,External Seating,Current,Food and Beverages
+ABC0015870,Shop\Retail,Current,Fashion and Accessories
+ABC0016147,Shop\Retail,Past,Other
+ABC0016025,Shop\Retail,Current,Other
+ABC0016005,Shop\Retail,Current,Other
+ABC0016106,Shop\Retail,Current,Other
+ABC0016373,Marketing,Past,Services
+ABC0016376,Marketing,Past,Services
+ABC0015973,Kiosk,Current,Services
+ABC0016199,Shop\Retail,Current,Services
+ABC0016036,Shop\Retail,Current,Other
+ABC0016037,External Seating,Current,Other
+ABC0016315,Shop\Retail,Current,Other
+ABC0015614,Shop\Retail,Current,Services
+ABC0016361,Storage,Current,Other
+ABC0012483,Shop\Retail,Current,Pharmacy and Health
+ABC0015952,Shop\Retail,Current,Home Furnishings
+ABC0015964,Shop\Retail,Past,Food and Beverages
+ABC0015865,Shop\Retail,Current,Fashion and Accessories
+ABC0014991,Pocket Shop,Past,Fashion and Accessories
+ABC0016497,Storage,Current,Other
+ABC0016498,Storage,Current,Other
+ABC0016500,Storage,Current,Other
+ABC0016501,Revenue Generating\Services,Current,Other
+ABC0015900,Shop\Retail,Current,Department Stores
+ABC0016022,Kiosk,Current,Fashion and Accessories
+ABC0013580,Shop\Retail,Current,Food and Beverages
+ABC0015037,Shop\Retail,Current,Food and Beverages
+ABC0016556,Marketing,Past,Other
+ABC0014086,Shop\Retail,Current,Services
+ABC0013784,Shop\Retail,Current,Food and Beverages
+ABC0016292,External Seating,Current,Food and Beverages
+ABC0015663,Shop\Retail,Current,Other
+ABC0016175,Shop\Retail,Current,Optometrist and Sun Glasses
+ABC0016605,Marketing,Current,Services
+ABC0015684,Shop\Retail,Current,Other
+ABC0015686,Shop\Retail,Current,
+ABC0016048,Shop\Retail,Current,Food and Beverages
+ABC0016173,Shop\Retail,Past,Food and Beverages
+ABC0016114,External Seating,Current,Food and Beverages
+ABC0015016,Storage,Current,Fashion and Accessories
+ABC0016445,Shop\Retail,Past,Food and Beverages
+ABC0014006,Shop\Retail,Current,Food and Beverages
+ABC0015110,Kiosk,Past,Services
+ABC0014884,Shop\Retail,Current,
+ABC0016587,Shop\Retail,Current,Other
+ABC0016190,Kiosk,Current,Other
+ABC0014386,External Seating,Current,Food and Beverages
+ABC0016206,Shop\Retail,Current,Electronics
+ABC0015854,Shop\Retail,Current,Fashion and Accessories
+ABC0015882,Shop\Retail,Current,Other
+ABC0015999,Shop\Retail,Current,Food and Beverages
+ABC0016493,Kiosk,Current,Services
+ABC0016491,Kiosk,Current,Services
+ABC0016348,Office,Current,Other
+ABC0016310,Kiosk,Current,Other
+ABC0016709,Marketing,Past,Other
+ABC0016658,Pocket Shop,Current,Fashion and Accessories
+ABC0015766,Shop\Retail,Current,Department Stores
+ABC0015738,Shop\Retail,Current,Home Furnishings
+ABC0015615,Kiosk,Current,Services
+ABC0015700,Kiosk,Current,Services
+ABC0014567,Shop\Retail,Current,Department Stores
+ABC0014569,Shop\Retail,Current,Department Stores
+ABC0016318,Pocket Shop,Current,Fashion and Accessories
+ABC0016366,Shop\Retail,Current,Books and Stationery
+ABC0016095,ATM,Current,Services
+ABC0016187,Kiosk,Current,Fashion and Accessories
+ABC0016790,Revenue Generating\Services,Current,Services
+ABC0016713,Kiosk,Current,Services
+ABC0016795,Revenue Generating\Services,Current,Services
+ABC0016796,Revenue Generating\Services,Current,Services
+ABC0016797,Revenue Generating\Services,Current,Services
+ABC0016630,Pocket Shop,Current,Fashion and Accessories
+ABC0016450,Shop\Retail,Current,Other
+ABC0014618,Shop\Retail,Current,Fashion and Accessories
+ABC0016683,External Seating,Current,Other
+ABC0016826,Marketing,Past,Hypermarket
+ABC0016191,Kiosk,Current,Other
+ABC0016791,Marketing,Past,Events
+ABC0015832,Shop\Retail,Past,
+ABC0016637,Shop\Retail,Current,Services
+ABC0016746,Shop\Retail,Current,Other
+ABC0016650,Storage,Current,Other
+ABC0016852,Marketing,Past,Hypermarket
+ABC0016853,Marketing,Past,Hypermarket
+ABC0016855,Marketing,Past,Hypermarket
+ABC0016352,Shop\Retail,Current,Other
+ABC0016305,Shop\Retail,Current,Other
+ABC0016129,Shop\Retail,Current,Other
+ABC0016590,Shop\Retail,Current,Other
+ABC0016755,Kiosk,Current,Perfumes and Cosmetics
+ABC0015756,Storage,Current,Food and Beverages
+ABC0016761,Kiosk,Current,Services
+ABC0014742,Kiosk,Current,Other
+ABC0014318,Shop\Retail,Current,Department Stores
+ABC0016809,Marketing,Past,Events
+ABC0016579,Shop\Retail,Past,Services
+ABC0016757,Storage,Current,Other
+ABC0015769,Shop\Retail,Current,Other
+ABC0016581,Shop\Retail,Current,Other
+ABC0015723,Kiosk,Current,Services
+ABC0016667,Kiosk,Current,Other
+ABC0016900,Marketing,Past,Events
+ABC0016901,Marketing,Past,Events
+ABC0016549,Shop\Retail,Current,Fashion and Accessories
+ABC0016540,Shop\Retail,Current,Food and Beverages
+ABC0015755,Shop\Retail,Current,Food and Beverages
+ABC0016660,Shop\Retail,Current,Pharmacy and Health
+ABC0016917,Marketing,Past,Events
+ABC0016902,Marketing,Past,Events
+ABC0016752,Storage,Current,Other
+ABC0016575,Kiosk,Current,Services
+ABC0016933,Marketing,Past,Events
+ABC0016782,Kiosk,Current,Services
+ABC0016875,Kiosk,Current,Watches and Jewelery
+ABC0016740,Kiosk,Current,Services
+ABC0016970,Shop\Retail,Current,Other
+ABC0016976,Shop\Retail,Current,Other
+ABC0016982,Revenue Generating\Services,Current,Other
+ABC0016983,Shop\Retail,Current,Other
+ABC0016986,Shop\Retail,Current,Pharmacy and Health
+ABC0016987,Shop\Retail,Current,Food and Beverages
+ABC0016990,Shop\Retail,Current,Other
+ABC0016993,Shop\Retail,Current,
+ABC0016997,Shop\Retail,Current,Other
+ABC0016817,Shop\Retail,Current,Services
+ABC0016739,External Seating,Current,Food and Beverages
+ABC0016655,Shop\Retail,Current,Food and Beverages
+ABC0017027,Marketing,Past,Events
+ABC0017029,Marketing,Past,Events
+ABC0017030,Marketing,Past,Events
+ABC0017031,Marketing,Past,Events
+ABC0016443,ATM,Current,Services
+ABC0016222,Shop\Retail,Current,Food and Beverages
+ABC0016273,Kiosk,Current,Other
+ABC0016846,Kiosk,Current,Luxury Watches and Jewelery
+ABC0016576,Shop\Retail,Current,Services
+ABC0014522,Shop\Retail,Current,Department Stores
+ABC0016886,Shop\Retail,Current,Food and Beverages
+ABC0016215,Shop\Retail,Current,Fashion and Accessories
+ABC0017060,External Seating,Current,Food and Beverages
+ABC0015933,Shop\Retail,Past,Food and Beverages
+ABC0017072,Shop\Retail,Current,Food and Beverages
+ABC0016864,Shop\Retail,Current,Fashion and Accessories
+ABC0016962,Office,Current,Other
+ABC0014900,Shop\Retail,Current,Food and Beverages
+ABC0016330,Shop\Retail,Current,Food and Beverages
+ABC0016385,External Seating,Current,Food and Beverages
+ABC0016573,Shop\Retail,Current,Services
+ABC0016267,Kiosk,Past,Other
+ABC0016769,Shop\Retail,Current,Other
+ABC0016568,Food Hall,Current,Services
+ABC0016910,Shop\Retail,Current,Other
+ABC0016948,Kiosk,Current,Perfumes and Cosmetics
+ABC0016127,Shop\Retail,Current,Food and Beverages
+ABC0016717,Pocket Shop,Current,Luxury Fashion and Accessories
+ABC0016474,External Seating,Past,Food and Beverages
+ABC0016538,Shop\Retail,Current,Food and Beverages
+ABC0016205,Shop\Retail,Current,Services
+ABC0016140,Shop\Retail,Current,Fashion and Accessories
+ABC0016343,Shop\Retail,Current,Food and Beverages
+ABC0016833,Kiosk,Past,Services
+ABC0013579,Shop\Retail,Past,Fashion and Accessories
+ABC0016344,External Seating,Current,Food and Beverages
+ABC0014501,Shop\Retail,Past,Food and Beverages
+ABC0017040,Kiosk,Current,Services
+ABC0016657,External Seating,Current,Food and Beverages
+ABC0016638,Shop\Retail,Current,Food and Beverages
+ABC0016159,Shop\Retail,Current,Fashion and Accessories
+ABC0016843,Shop\Retail,Current,Fashion and Accessories
+ABC0014179,Marketing,Current,Services
+ABC0014178,Marketing,Current,Services
+ABC0015683,Shop\Retail,Past,Food and Beverages
+ABC0017152,External Seating,Current,Food and Beverages
+ABC0017162,Shop\Retail,Current,Food and Beverages
+ABC0017163,Shop\Retail,Current,Food and Beverages
+ABC0014906,Shop\Retail,Past,Other
+ABC0017167,Shop\Retail,Current,Food and Beverages
+ABC0017168,Shop\Retail,Current,Food and Beverages
+ABC0017169,Shop\Retail,Current,Food and Beverages
+ABC0017170,Shop\Retail,Current,Food and Beverages
+ABC0017171,Shop\Retail,Current,Food and Beverages
+ABC0014069,Food Hall,Past,Other
+ABC0017173,Revenue Generating\Services,Current,Services
+ABC0016627,Shop\Retail,Current,Other
+ABC0015941,Food Hall,Past,Services
+ABC0017218,Marketing,Past,Services
+ABC0017221,External Seating,Current,Food and Beverages
+ABC0016751,Shop\Retail,Current,Other
+ABC0017222,External Seating,Current,Food and Beverages
+ABC0017223,External Seating,Current,Food and Beverages
+ABC0017226,External Seating,Current,Food and Beverages
+ABC0017229,External Seating,Current,Food and Beverages
+ABC0017232,Shop\Retail,Current,Food and Beverages
+ABC0016508,Shop\Retail,Current,Food and Beverages
+ABC0014140,Shop\Retail,Current,Fashion and Accessories
+ABC0017051,External Seating,Current,Leisure and Entertainment
+ABC0017050,Shop\Retail,Current,Leisure and Entertainment
+ABC0016779,Shop\Retail,Current,Services
+ABC0017042,Storage,Current,Food and Beverages
+ABC0017245,Kiosk,Past,Services
+ABC0013679,Pocket Shop,Current,Other
+ABC0015850,Food Hall,Current,Food and Beverages
+ABC0014775,Kiosk,Past,Toys and Hobbies
+ABC0015924,Kiosk,Past,Services
+ABC0013872,Shop\Retail,Current,Other
+ABC0016634,Shop\Retail,Current,Optometrist and Sun Glasses
+ABC0017033,Kiosk,Current,Electronics
+ABC0017063,Storage,Current,Fashion and Accessories
+ABC0017259,Marketing,Past,Services
+ABC0017266,Beach License,Current,Food and Beverages
+ABC0017046,Pocket Shop,Past,Fashion and Accessories
+ABC0017110,Shop\Retail,Current,Services
+ABC0016862,Shop\Retail,Current,
+ABC0017120,Kiosk,Current,Services
+ABC0016108,Shop\Retail,Current,Fashion and Accessories
+ABC0015979,Kiosk,Current,Other
+ABC0016446,Shop\Retail,Current,Other
+ABC0017141,Food Hall,Current,Services
+ABC0015921,External Seating,Past,Food and Beverages
+ABC0017052,Anchor,Current,Fashion and Accessories
+ABC0015776,Shop\Retail,Current,Fashion and Accessories
+ABC0017251,Kiosk,Current,Services
+ABC0016767,Shop\Retail,Current,Other
+ABC0016654,Shop\Retail,Current,Fashion and Accessories
+ABC0017055,Shop\Retail,Current,Electronics
+ABC0017176,Shop\Retail,Current,Other
+ABC0016943,Food Hall,Current,Food and Beverages
+ABC0017053,Shop\Retail,Current,Food and Beverages
+ABC0016876,Kiosk,Current,Services
+ABC0017225,Kiosk,Current,Services
+ABC0016728,Storage,Current,Other
+ABC0017304,External Seating,Current,Food and Beverages
+ABC0017166,External Seating,Current,Food and Beverages
+ABC0017133,Shop\Retail,Current,Food and Beverages
+ABC0017011,Shop\Retail,Current,Other
+ABC0016355,Kiosk,Current,Other
+ABC0016139,Kiosk,Current,Electronics
+ABC0017115,Kiosk,Current,Perfumes and Cosmetics
+ABC0017254,Kiosk,Current,Pharmacy and Health
+ABC0014119,Office,Current,Other
+ABC0017045,Shop\Retail,Current,Food and Beverages
+ABC0017028,Kiosk,Current,Services
+ABC0017026,Kiosk,Current,Services
+ABC0014168,Kiosk,Current,Food and Beverages
+ABC0016815,Beach License,Current,Food and Beverages
+ABC0017082,Shop\Retail,Current,Perfumes and Cosmetics
+ABC0017049,Storage,Current,Food and Beverages
+ABC0017224,Kiosk,Current,Services
+ABC0016924,Shop\Retail,Current,Services
+ABC0014227,Kiosk,Current,Services
+ABC0017299,Kiosk,Current,Fashion and Accessories
+ABC0013930,Kiosk,Current,Food and Beverages
+ABC0017081,Shop\Retail,Current,Other
+ABC0017112,Kiosk,Current,Services
+ABC0017078,Shop\Retail,Current,Services
+ABC0015925,Kiosk,Past,Services
+ABC0017328,Food Hall,Current,Services
+ABC0013986,External Seating,Past,Food and Beverages
+ABC0013987,External Seating,Past,Food and Beverages
+ABC0013967,Kiosk,Current,Electronics
+ABC0017327,Kiosk,Current,Services
+ABC0013959,Pocket Shop,Past,Fashion and Accessories
+ABC0017485,Marketing,Past,Other
+ABC0017321,Shop\Retail,Current,Electronics
+ABC0017097,Storage,Current,Food and Beverages
+ABC0017249,Shop\Retail,Current,Pharmacy and Health
+ABC0017322,Shop\Retail,Current,Toys and Hobbies
+ABC0017396,Shop\Retail,Current,Fashion and Accessories
+ABC0017553,Marketing,Past,Events
+ABC0017089,Shop\Retail,Current,Perfumes and Cosmetics
+ABC0017256,Shop\Retail,Current,Other
+ABC0017043,Shop\Retail,Current,Other
+ABC0016686,Kiosk,Current,Services
+ABC0016193,Kiosk,Current,Other
+ABC0016765,Shop\Retail,Current,Fashion and Accessories
+ABC0016354,External Seating,Current,Food and Beverages
+ABC0017261,Kiosk,Current,Services
+ABC0014423,Kiosk,Current,Fashion and Accessories
+ABC0017248,Shop\Retail,Current,Fashion and Accessories
+ABC0013435,Shop\Retail,Current,Services
+ABC0014376,Storage,Current,Food and Beverages
+ABC0016824,Shop\Retail,Current,Pharmacy and Health
+ABC0014332,Food Hall,Current,Other
+ABC0013383,Shop\Retail,Current,Other
+ABC0017628,Marketing,Past,Events
+ABC0017335,Kiosk,Past,Services
+ABC0014004,Shop\Retail,Current,Other
+ABC0016577,Shop\Retail,Current,Food and Beverages
+ABC0014316,Kiosk,Current,Electronics
+ABC0017547,Kiosk,Current,Services
+ABC0017073,Food Hall,Current,Services
+ABC0014912,Kiosk,Current,Services
+ABC0017270,Shop\Retail,Current,Fashion and Accessories
+ABC0014077,Pocket Shop,Current,Other
+ABC0017410,Shop\Retail,Current,Other
+ABC0017402,Food Hall,Current,Food and Beverages
+ABC0017405,Food Hall,Current,Food and Beverages
+ABC0017407,Shop\Retail,Current,Other
+ABC0017219,External Seating,Current,Food and Beverages
+ABC0017220,External Seating,Current,Food and Beverages
+ABC0017024,Shop\Retail,Current,Home Furnishings
+ABC0017324,Food Hall,Current,Food and Beverages
+ABC0017103,External Seating,Current,Food and Beverages
+ABC0017436,Storage,Current,Other
+ABC0017424,Shop\Retail,Current,Electronics
+ABC0014464,Kiosk,Past,Gifts and Souvenirs
+ABC0017102,Shop\Retail,Current,Food and Beverages
+ABC0017263,Kiosk,Current,Services
+ABC0013975,Shop\Retail,Past,Food and Beverages
+ABC0017793,Revenue Generating\Services,Current,Services
+ABC0015743,Food Hall,Current,Services
+ABC0017830,Marketing,Past,Other
+ABC0016820,Kiosk,Current,Services
+ABC0017707,External Seating,Current,Other
+ABC0017538,Shop\Retail,Current,Food and Beverages
+ABC0016676,Shop\Retail,Current,Services
+ABC0017600,Shop\Retail,Current,Services
+ABC0017453,Shop\Retail,Current,Fashion and Accessories
+ABC0017404,Food Hall,Current,Food and Beverages
+ABC0016656,Shop\Retail,Past,Other
+ABC0015026,Food Hall,Current,Food and Beverages
+ABC0016384,Kiosk,Current,Other
+ABC0014356,Kiosk,Current,Food and Beverages
+ABC0016663,Kiosk,Current,Services
+ABC0016688,Kiosk,Current,Services
+ABC0014724,Kiosk,Past,Services
+ABC0016816,Kiosk,Past,Services
+ABC0015006,Kiosk,Current,Electronics
+ABC0014796,Kiosk,Current,Department Stores
+ABC0017614,Shop\Retail,Current,Food and Beverages
+ABC0015111,Pocket Shop,Current,Fashion and Accessories
+ABC0017283,Kiosk,Current,Other
+ABC0015934,Kiosk,Current,Food and Beverages
+ABC0017605,Kiosk,Current,Perfumes and Cosmetics
+ABC0014765,Kiosk,Current,Other
+ABC0017380,Shop\Retail,Current,Services
+ABC0016991,Shop\Retail,Current,Other
+ABC0017295,Pocket Shop,Current,Fashion and Accessories
+ABC0017585,Shop\Retail,Current,Fashion and Accessories
+ABC0017351,Kiosk,Past,Services
+ABC0016521,Shop\Retail,Current,Fashion and Accessories
+ABC0014913,Kiosk,Current,Services
+ABC0017749,Kiosk,Current,Other
+ABC0014459,Kiosk,Current,Other
+ABC0017010,Shop\Retail,Current,Food and Beverages
+ABC0016293,Food Hall,Current,Services
+ABC0017092,Kiosk,Current,Events
+ABC0014961,Kiosk,Current,Food and Beverages
+ABC0015003,Kiosk,Current,Food and Beverages
+ABC0016666,Kiosk,Current,Services
+ABC0017117,Pocket Shop,Current,Fashion and Accessories
+ABC0017047,Food Hall,Current,Food and Beverages
+ABC0015007,Kiosk,Current,Food and Beverages
+ABC0014970,Food Hall,Current,Home Furnishings
+ABC0014837,Shop\Retail,Current,Other
+ABC0014867,External Seating,Current,Other
+ABC0017555,Kiosk,Current,Events
+ABC0016989,Shop\Retail,Current,Other
+ABC0015118,Pocket Shop,Current,Fashion and Accessories
+ABC0014875,Kiosk,Current,Department Stores
+ABC0018004,Food Hall,Current,Other
+ABC0018175,Marketing,Past,Other
+ABC0018177,Marketing,Past,Other
+ABC0018179,Marketing,Past,Other
+ABC0018183,Marketing,Past,Other
+ABC0018184,Marketing,Past,Other
+ABC0017942,Kiosk,Current,Other
+ABC0014202,Kiosk,Current,Services
+ABC0016342,Kiosk,Current,Other
+ABC0015784,Marketing,Past,Services
+ABC0017397,Shop\Retail,Current,Food and Beverages
+ABC0017088,Kiosk,Current,Services
+ABC0017658,Shop\Retail,Current,Food and Beverages
+ABC0017839,Kiosk,Current,Events
+ABC0017275,Storage,Current,Other
+ABC0014169,Kiosk,Current,Food and Beverages
+ABC0016661,Kiosk,Current,Services
+ABC0017994,Kiosk,Current,Other
+ABC0017116,Kiosk,Current,Services
+ABC0018269,Marketing,Past,Other
+ABC0014710,Shop\Retail,Current,Toys and Hobbies
+ABC0018015,Kiosk,Current,Other
+ABC0014864,Kiosk,Current,Other
+ABC0017875,Storage,Current,Other
+ABC0016494,Kiosk,Current,Services
+ABC0018352,Marketing,Past,Other
+ABC0014395,Shop\Retail,Current,Department Stores
+ABC0015770,Food Hall,Current,Services
+ABC0015737,Food Hall,Current,
+ABC0018195,ATM,Current,Other
+ABC0018375,Marketing,Past,Other
+ABC0018376,Marketing,Past,Other
+ABC0018377,Marketing,Past,Other
+ABC0018378,Marketing,Past,Other
+ABC0016834,ATM,Current,Services
+ABC0018051,Shop\Retail,Current,Services
+ABC0016964,Shop\Retail,Current,Food and Beverages
+ABC0017783,Parking Bay,Current,Services
+ABC0016255,Shop\Retail,Current,Fashion and Accessories
+ABC0016821,Kiosk,Current,Services
+ABC0018442,Marketing,Past,Other
+ABC0018265,Kiosk,Current,Other
+ABC0013894,Kiosk,Current,Other
+ABC0017128,Food Hall,Current,Services
+ABC0014285,Food Hall,Current,Other
+ABC0014391,Kiosk,Current,Services
+ABC0018192,Kiosk,Current,Other
+ABC0015155,Kiosk,Current,Food and Beverages
+ABC0014105,Shop\Retail,Current,Other
+ABC0017893,Shop\Retail,Current,Services
+ABC0014068,Food Hall,Current,Other
+ABC0016403,Marketing,Current,Services
+ABC0015100,Storage,Current,Other
+ABC0016331,Shop\Retail,Current,Other

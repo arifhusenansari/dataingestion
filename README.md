@@ -44,6 +44,7 @@ Whole pipeline is build based on metadata driven approach. Below are brief detai
 Data ingestion pipeline is build in python for orchestration and MS SQL server to store data. 
 Separate python file is created for zones. EndToEndLoad.py is the main file that will be executed and it will orchestrate all the step one by one by executing python script for repective layer. 
 Three database in MSSQL server are created to represent different zone. metadata database is created to hold metadata configuration details.
+I have created three csv file sinces file provided are not csv. I put those file in dataingestion\source folder. 
 1.  raw_zone
 2.  quality_zone
 3.  curated_zone
